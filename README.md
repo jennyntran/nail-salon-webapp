@@ -20,3 +20,6 @@ Necessary Installations:
     More information in our documentation:
     https://pris.ly/d/getting-started
   -npm install @prisma/client
+
+- npm install cookie-parser
+- npm install jsonwebtoken
